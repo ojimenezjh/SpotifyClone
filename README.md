@@ -1,5 +1,8 @@
 # SpotifyClone
 
 
-https://user-images.githubusercontent.com/57319335/162712203-baa8793e-b183-4a27-b670-073944ec438a.mov
+
+https://user-images.githubusercontent.com/57319335/162713038-44d0d80c-3cb0-4743-a8a5-765e94e29bea.mov
+
+
 
